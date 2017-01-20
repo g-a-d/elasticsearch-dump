@@ -295,3 +295,4 @@ The new options, `--parallel` is how many forks should be run simultaneously and
 Inspired by https://github.com/crate/elasticsearch-inout-plugin and https://github.com/jprante/elasticsearch-knapsack
 
 Built at [TaskRabbit](https://www.taskrabbit.com)
+
